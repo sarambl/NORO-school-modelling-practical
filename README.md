@@ -57,9 +57,7 @@ The right panel should look like this:
 
 (8.) Now type 
 ```python
-!wget https://zenodo.org/records/10521325/files/sarambl/NORO-school-modelling-practical-version1.1.zip
-
-!unzip NORO-school-modelling-practical-version1.1.zip
+!git clone https://github.com/sarambl/NORO-school-modelling-practical.git
 ```
 
 
