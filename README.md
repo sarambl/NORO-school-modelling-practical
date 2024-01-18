@@ -15,6 +15,7 @@ General about the Galaxy project: https://galaxyproject.org/
 
 
 <img src="./imgs/fi1.png" 
+     alt="drawing"
      width="500" />
 
 
@@ -48,7 +49,6 @@ The right panel should look like this:
 (7.) Now open a notebook by clicking "+" in the top left corner, followed by clickin "Python 3 (ipykernel)" in the appearing window. 
 
 <img src="./imgs/fi5.png" 
-     align="left" 
      alt="drawing"
      width="500" />
 
@@ -66,7 +66,6 @@ The right panel should look like this:
 In the top cell, and then press play to "execute" the cell (run the content). 
 
 <img src="./imgs/fi6.png" 
-     align="left" 
      alt="drawing"
      width="500" />
 
