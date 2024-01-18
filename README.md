@@ -26,11 +26,14 @@ The right panel should look like this:
      width="200" />
 
 
+
 (5.) Now click "User" on the top panel, followed by "Active InteractiveTools" in the drop down menu:
 
 <img src="./imgs/fi3.png" 
      align="left" 
      width="500" />
+
+
 
 
 
@@ -41,11 +44,15 @@ The right panel should look like this:
      width="500" />
 
 
+
+
 (7.) Now open a notebook by clicking "+" in the top left corner, followed by clickin "Python 3 (ipykernel)" in the appearing window. 
 
 <img src="./imgs/fi5.png" 
      align="left" 
      width="500" />
+
+
 
 
 (8.) Now type 
@@ -54,6 +61,7 @@ The right panel should look like this:
 
 !unzip NORO-school-modelling-practical-version1.1.zip
 ```
+
 
 In the top cell, and then press play to "execute" the cell (run the content). 
 
