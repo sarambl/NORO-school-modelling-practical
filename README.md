@@ -23,6 +23,7 @@ The right panel should look like this:
 
 <img src="./imgs/fi2.png" 
      align="left" 
+     alt="drawing"
      width="200" />
 
 
@@ -31,6 +32,7 @@ The right panel should look like this:
 
 <img src="./imgs/fi3.png" 
      align="left" 
+     alt="drawing"
      width="500" />
 
 
@@ -41,6 +43,7 @@ The right panel should look like this:
 
 <img src="./imgs/fi4.png" 
      align="left" 
+     alt="drawing"
      width="500" />
 
 
@@ -50,6 +53,7 @@ The right panel should look like this:
 
 <img src="./imgs/fi5.png" 
      align="left" 
+     alt="drawing"
      width="500" />
 
 
@@ -67,6 +71,7 @@ In the top cell, and then press play to "execute" the cell (run the content).
 
 <img src="./imgs/fi6.png" 
      align="left" 
+     alt="drawing"
      width="500" />
 
 
