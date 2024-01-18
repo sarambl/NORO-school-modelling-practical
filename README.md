@@ -17,3 +17,52 @@ General about the Galaxy project: https://galaxyproject.org/
 <img src="./imgs/fi1.png" 
      align="left" 
      width="500" />
+
+
+The right panel should look like this: 
+
+<img src="./imgs/fi2.png" 
+     align="left" 
+     width="200" />
+
+
+(5.) Now click "User" on the top panel, followed by "Active InteractiveTools" in the drop down menu:
+
+<img src="./imgs/fi3.png" 
+     align="left" 
+     width="500" />
+
+
+
+(6.) Now click "Pangeo Interactive Tool"
+
+<img src="./imgs/fi4.png" 
+     align="left" 
+     width="500" />
+
+
+(7.) Now open a notebook by clicking "+" in the top left corner, followed by clickin "Python 3 (ipykernel)" in the appearing window. 
+
+<img src="./imgs/fi5.png" 
+     align="left" 
+     width="500" />
+
+
+(8.) Now type 
+```python
+!wget https://zenodo.org/records/10521325/files/sarambl/NORO-school-modelling-practical-version1.1.zip
+
+!unzip NORO-school-modelling-practical-version1.1.zip
+```
+
+In the top cell, and then press play to "execute" the cell (run the content). 
+
+<img src="./imgs/fi6.png" 
+     align="left" 
+     width="500" />
+
+
+
+(9.) Now open the new file which shows up in the left side panel (inside the new folder). 
+
+(10.) **IMPORTANT:** This online platform will delete all your work if it shuts down (for whatever reason), therefore, download your work regularly. In an ideal setup you would e.g. use a version controle system like git+ github, but here we'll keep it simple. 
