@@ -15,14 +15,12 @@ General about the Galaxy project: https://galaxyproject.org/
 
 
 <img src="./imgs/fi1.png" 
-     align="left" 
      width="500" />
 
 
 The right panel should look like this: 
 
 <img src="./imgs/fi2.png" 
-     align="left" 
      alt="drawing"
      width="200" />
 
@@ -31,7 +29,6 @@ The right panel should look like this:
 (5.) Now click "User" on the top panel, followed by "Active InteractiveTools" in the drop down menu:
 
 <img src="./imgs/fi3.png" 
-     align="left" 
      alt="drawing"
      width="500" />
 
@@ -42,7 +39,6 @@ The right panel should look like this:
 (6.) Now click "Pangeo Interactive Tool"
 
 <img src="./imgs/fi4.png" 
-     align="left" 
      alt="drawing"
      width="500" />
 
